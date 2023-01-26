@@ -12,7 +12,5 @@ panic = "abort"
 [profile.release]
 panic = "abort"
 
-[build]
-target = "x86_64-unknown-none.json"
-
 [dependencies]
+bootloader = "*"
