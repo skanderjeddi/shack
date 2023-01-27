@@ -13,4 +13,4 @@ panic = "abort"
 panic = "abort"
 
 [dependencies]
-bootloader = "*"
+bootloader = "0.11.0"
